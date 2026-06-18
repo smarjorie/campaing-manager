@@ -161,5 +161,5 @@ Pronto — disponível em `/api/meu-modulo/minha-acao`.
 ```bash
 npm install
 npm run dev
-# Acesse: http://localhost:3000
+# Acesse:
 ```
